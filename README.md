@@ -1,6 +1,10 @@
 # BibliotecaManager
 # MINIM1
 
-Test passat i servei REST-API funcionant.
+Part 1:
+- Totes les funcionalitats creades i funcionant correctament.
+- Test JUnit passat amb èxit.
 
-Totes les funcionalitats funcionen.
+Part 2:
+- Servei REST-API funcionant.
+- Swagger desplegat i funcionant correctament.
